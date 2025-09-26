@@ -5,7 +5,5 @@ int main()
 {
     system("cls");
     cout << "First Program--------------1" << endl;
-    cout << "First Program--------------1" << endl;
-    cout << "First Program--------------1" << endl;
     return 0;
 }
